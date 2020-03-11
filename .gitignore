@@ -1,0 +1,8 @@
+/bin/
+
+out/
+*.json
+target
+.settings/
+.project
+.classpath
